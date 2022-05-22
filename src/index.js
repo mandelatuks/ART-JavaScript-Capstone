@@ -29,9 +29,9 @@ const renderComment = (arr) => {
   if (Array.isArray(arr)) {
     arr.forEach((item) => {
       commentContainer.innerHTML += `
-      <span class="bg-blue-400 p-2 mt-3 text-lg text-white mr-0">${item.creation_date}</span>
-      <span class="bg-blue-500 p-2 mt-3 text-lg text-white">${item.username}:</span>
-      <span class="p-2 mt-3 text-lg">${item.comment}</span>
+      <span class="bg text-lg ">${item.creation_date}</span>
+      <span class="bg text-lg ">${item.username}:</span>
+      <span class="text-lg">${item.comment}</span>
       <br>
       <br>`;
     });
