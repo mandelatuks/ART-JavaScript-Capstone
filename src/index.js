@@ -30,7 +30,7 @@ const renderComment = (arr) => {
     arr.forEach((item) => {
       commentContainer.innerHTML += `
       <span class="bg text-lg ">${item.creation_date}</span>
-      <span class="bg text-lg ">${item.username}:</span>
+      <span class=" text-lg ">${item.username}:</span>
       <span class="text-lg">${item.comment}</span>
       <br>
       <br>`;
