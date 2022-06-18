@@ -63,8 +63,7 @@ footer {
 }
 
 .article-style {
-  width: 29%;
-  height: 80vh;
+  width: 40%;
   margin-top: 20px;
   background-color: #fff;
   border: 3px solid #0f1429;
@@ -77,9 +76,9 @@ footer {
 
 .image-style {
   height: 32rem;
-  width: 26.4rem;
+  width: 22.4rem;
   align-items: center;
-  margin-left: 15%;
+  margin-left: 12%;
   margin-top: 25px;
   border: 5px solid #967843;
 }
