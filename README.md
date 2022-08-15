@@ -23,7 +23,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://mandelatuks.github.io/ART-JavaScript-Capstone/dist/)
+[Live Demo Link](https://oga-dela-art.netlify.app/)
 
 ## Getting Started
 
